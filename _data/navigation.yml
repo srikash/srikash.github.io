@@ -1,11 +1,9 @@
 # main links
 main:
-  - title: "MR-Methods Maastricht"
-    url: https://mr-methods-mbic.com/2018/10/10/sri-kashyap/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "About Me"
+    url: /about-me/
+  - title: "Posts"
+    url: /posts/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

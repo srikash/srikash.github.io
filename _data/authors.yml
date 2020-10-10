@@ -1,0 +1,16 @@
+# /_data/authors.yml
+
+Sriranga Kashyap:
+  name        : "Sriranga Kashyap"
+  bio         : "Author of posts"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kashyap.sriranga@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://srikash.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/srirangakashyap"
